@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/opt/opsview/executor/venv/bin/python
 
 import argparse
 import nagiosplugin
